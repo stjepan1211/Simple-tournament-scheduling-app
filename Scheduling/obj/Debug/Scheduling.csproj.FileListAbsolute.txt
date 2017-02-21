@@ -1,0 +1,6 @@
+F:\5. GODINA\Scheduling\Scheduling\Scheduling\bin\Debug\Scheduling.exe.config
+F:\5. GODINA\Scheduling\Scheduling\Scheduling\bin\Debug\Scheduling.exe
+F:\5. GODINA\Scheduling\Scheduling\Scheduling\bin\Debug\Scheduling.pdb
+F:\5. GODINA\Scheduling\Scheduling\Scheduling\obj\Debug\Scheduling.csprojResolveAssemblyReference.cache
+F:\5. GODINA\Scheduling\Scheduling\Scheduling\obj\Debug\Scheduling.exe
+F:\5. GODINA\Scheduling\Scheduling\Scheduling\obj\Debug\Scheduling.pdb
